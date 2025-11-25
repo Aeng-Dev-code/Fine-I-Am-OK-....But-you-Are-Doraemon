@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="Page-1" id="ufCPBjnFvBahJfOTBnq-">
-    <mxGraphModel dx="2046" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="2142" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -662,7 +662,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oSU7wjdMNMTQ7UB4jdlM-26" value="EnemySpawner&amp;nbsp;&amp;nbsp;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="538" y="280" width="272" height="490" as="geometry" />
+          <mxGeometry x="548" y="280" width="272" height="490" as="geometry" />
         </mxCell>
         <mxCell id="oSU7wjdMNMTQ7UB4jdlM-27" value="&lt;div&gt;+ audioSource&amp;nbsp;:&amp;nbsp;AudioSource&lt;/div&gt;&lt;div&gt;+spawnSoundClip :&amp;nbsp;AudioClip&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;+ spawnableEnemies : List&amp;lt;EnemyTypeData&amp;gt;&lt;div&gt;+ spawnPoints : List&amp;lt;EnemyTypeData&amp;gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;+ maxActiveEnemies :&amp;nbsp;int&amp;nbsp;&lt;/div&gt;&lt;div&gt;+ activationRange :&amp;nbsp;float&lt;/div&gt;&lt;div&gt;+&amp;nbsp;&amp;nbsp;maxTotalSpawns : int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;minSpawnInterval :&amp;nbsp;float&lt;/div&gt;&lt;div&gt;+ maxSpawnInterval :&amp;nbsp;float&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ minSpawnCountPerBatch :&amp;nbsp;int&lt;/div&gt;&lt;div&gt;+&amp;nbsp;maxSpawnCountPerBatch : int&amp;nbsp;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;spawnRadius :&amp;nbsp;float&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;Character player&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;_spawnTimer :&amp;nbsp;float&lt;/div&gt;&lt;div&gt;-&amp;nbsp;_isActive&amp;nbsp; :&amp;nbsp;bool&amp;nbsp;&lt;/div&gt;&lt;div&gt;- activeEnemies :List&amp;lt;Enemy&amp;gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;_totalSpawnedCount : int&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="oSU7wjdMNMTQ7UB4jdlM-26" vertex="1">
           <mxGeometry y="26" width="272" height="334" as="geometry" />
