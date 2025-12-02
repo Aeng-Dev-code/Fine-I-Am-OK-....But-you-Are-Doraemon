@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2">
   <diagram name="Page-1" id="ufCPBjnFvBahJfOTBnq-">
-    <mxGraphModel dx="2137" dy="1911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="3159" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -769,8 +769,16 @@
         <mxCell id="JsKqJuURIpdqcII-XXFo-5" parent="JsKqJuURIpdqcII-XXFo-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div&gt;&lt;div&gt;+ override&amp;nbsp;SetUP()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Update()&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+StopMovement()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;DealDamageToPlayer()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+TryAttack()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;ChooseRandom(string[] arr)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ResetAttack()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ override TakeDamage(int amount)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Die()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- override&amp;nbsp;GetClosestInfornt()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- OnDrawGizmosSelected()&lt;/div&gt;" vertex="1">
           <mxGeometry height="332" width="220" y="328" as="geometry" />
         </mxCell>
+        <mxCell id="Geain6B9ieLDcKAxIDCy-49" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2S1AV4CtAPfmvIg0gBz3-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-370" y="-407" />
+              <mxPoint x="-370" y="-407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Geain6B9ieLDcKAxIDCy-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&amp;nbsp;TriggerUI" vertex="1">
-          <mxGeometry height="86" width="210" x="-800" y="-440" as="geometry" />
+          <mxGeometry height="86" width="210" x="-750" y="-450" as="geometry" />
         </mxCell>
         <mxCell id="Geain6B9ieLDcKAxIDCy-2" parent="Geain6B9ieLDcKAxIDCy-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ UI GameObject&amp;nbsp;" vertex="1">
           <mxGeometry height="26" width="210" y="26" as="geometry" />
@@ -784,8 +792,7 @@
         <mxCell id="Geain6B9ieLDcKAxIDCy-39" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="2S1AV4CtAPfmvIg0gBz3-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-350" y="-335" />
-              <mxPoint x="-350" y="-335" />
+              <mxPoint x="-575" y="-280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -801,11 +808,19 @@
         <mxCell id="Geain6B9ieLDcKAxIDCy-8" parent="Geain6B9ieLDcKAxIDCy-5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="-&amp;nbsp; Update(Input.GetKeyDown)&lt;div&gt;+ InventoryOn()&lt;/div&gt;&lt;div&gt;+ CloseInventory()&lt;/div&gt;" vertex="1">
           <mxGeometry height="62" width="210" y="88" as="geometry" />
         </mxCell>
-        <mxCell id="Geain6B9ieLDcKAxIDCy-40" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="Geain6B9ieLDcKAxIDCy-14">
+        <mxCell id="Geain6B9ieLDcKAxIDCy-40" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;endArrow=diamondThin;endFill=1;endSize=20;" target="Geain6B9ieLDcKAxIDCy-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Geain6B9ieLDcKAxIDCy-50" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Geain6B9ieLDcKAxIDCy-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-925" y="-660" />
+              <mxPoint x="-620" y="-660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Geain6B9ieLDcKAxIDCy-9" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="ItemPickUp" vertex="1">
-          <mxGeometry height="110" width="210" x="-950" y="-106" as="geometry" />
+          <mxGeometry height="110" width="210" x="-1030" y="-450" as="geometry" />
         </mxCell>
         <mxCell id="Geain6B9ieLDcKAxIDCy-10" parent="Geain6B9ieLDcKAxIDCy-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ Item(item: Item)" vertex="1">
           <mxGeometry height="26" width="210" y="26" as="geometry" />
@@ -817,7 +832,7 @@
           <mxGeometry height="50" width="210" y="60" as="geometry" />
         </mxCell>
         <mxCell id="Geain6B9ieLDcKAxIDCy-14" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="ItemController" vertex="1">
-          <mxGeometry height="52" width="210" x="-950" y="-246" as="geometry" />
+          <mxGeometry height="52" width="210" x="-1260" y="-570" as="geometry" />
         </mxCell>
         <mxCell id="Geain6B9ieLDcKAxIDCy-17" parent="Geain6B9ieLDcKAxIDCy-14" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ item: Item" vertex="1">
           <mxGeometry height="26" width="210" y="26" as="geometry" />
@@ -876,6 +891,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Geain6B9ieLDcKAxIDCy-38" edge="1" parent="1" source="E8ma5v9REhCTuxPRoPzD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="Geain6B9ieLDcKAxIDCy-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Geain6B9ieLDcKAxIDCy-45" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2S1AV4CtAPfmvIg0gBz3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
