@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2">
   <diagram name="Page-1" id="ufCPBjnFvBahJfOTBnq-">
-    <mxGraphModel dx="2662" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
+    <mxGraphModel dx="2388" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -352,7 +352,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2S1AV4CtAPfmvIg0gBz3-73" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="MaxPotion" vertex="1">
-          <mxGeometry height="52" width="160" x="-250" y="532" as="geometry" />
+          <mxGeometry height="52" width="160" x="-340" y="454" as="geometry" />
         </mxCell>
         <mxCell id="2S1AV4CtAPfmvIg0gBz3-76" parent="2S1AV4CtAPfmvIg0gBz3-73" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ OnCollect(Player)" vertex="1">
           <mxGeometry height="26" width="160" y="26" as="geometry" />
@@ -373,7 +373,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2S1AV4CtAPfmvIg0gBz3-82" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="Collectable" vertex="1">
-          <mxGeometry height="86" width="160" x="-70" y="532" as="geometry" />
+          <mxGeometry height="86" width="160" x="-240" y="606" as="geometry" />
         </mxCell>
         <mxCell id="2S1AV4CtAPfmvIg0gBz3-83" parent="2S1AV4CtAPfmvIg0gBz3-82" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ field: type" vertex="1">
           <mxGeometry height="26" width="160" y="26" as="geometry" />
@@ -871,7 +871,7 @@
           <mxGeometry height="114" width="210" y="26" as="geometry" />
         </mxCell>
         <mxCell id="Geain6B9ieLDcKAxIDCy-33" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="TriggerLoadScene" vertex="1">
-          <mxGeometry height="104" width="210" x="-630" y="346" as="geometry" />
+          <mxGeometry height="104" width="210" x="-645" y="194" as="geometry" />
         </mxCell>
         <mxCell id="Geain6B9ieLDcKAxIDCy-34" parent="Geain6B9ieLDcKAxIDCy-33" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+BackgroundMusic :&amp;nbsp;&amp;nbsp;AudioClip&lt;div&gt;+&amp;nbsp;LoadSceneName :&amp;nbsp;&amp;nbsp;string&lt;/div&gt;" vertex="1">
           <mxGeometry height="44" width="210" y="26" as="geometry" />
