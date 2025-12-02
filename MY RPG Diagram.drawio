@@ -769,7 +769,7 @@
         <mxCell id="JsKqJuURIpdqcII-XXFo-5" parent="JsKqJuURIpdqcII-XXFo-2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;div&gt;&lt;div&gt;+ override&amp;nbsp;SetUP()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ Update()&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+StopMovement()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;DealDamageToPlayer()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;+TryAttack()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+&amp;nbsp;ChooseRandom(string[] arr)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ResetAttack()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ override TakeDamage(int amount)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-Die()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- override&amp;nbsp;GetClosestInfornt()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- OnDrawGizmosSelected()&lt;/div&gt;" vertex="1">
           <mxGeometry height="332" width="220" y="328" as="geometry" />
         </mxCell>
-        <mxCell id="Geain6B9ieLDcKAxIDCy-49" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2S1AV4CtAPfmvIg0gBz3-2">
+        <mxCell id="Geain6B9ieLDcKAxIDCy-49" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="2S1AV4CtAPfmvIg0gBz3-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-370" y="-407" />
@@ -789,7 +789,7 @@
         <mxCell id="Geain6B9ieLDcKAxIDCy-4" parent="Geain6B9ieLDcKAxIDCy-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="+ OnCollisionEnter(Collision collision)" vertex="1">
           <mxGeometry height="26" width="210" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="Geain6B9ieLDcKAxIDCy-51" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Geain6B9ieLDcKAxIDCy-25">
+        <mxCell id="Geain6B9ieLDcKAxIDCy-51" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="Geain6B9ieLDcKAxIDCy-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-830" y="-796" />
@@ -811,7 +811,7 @@
         <mxCell id="Geain6B9ieLDcKAxIDCy-40" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;endArrow=diamondThin;endFill=1;endSize=20;" target="Geain6B9ieLDcKAxIDCy-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Geain6B9ieLDcKAxIDCy-50" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Geain6B9ieLDcKAxIDCy-22">
+        <mxCell id="Geain6B9ieLDcKAxIDCy-50" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="Geain6B9ieLDcKAxIDCy-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-925" y="-660" />
@@ -893,7 +893,7 @@
         <mxCell id="Geain6B9ieLDcKAxIDCy-38" edge="1" parent="1" source="E8ma5v9REhCTuxPRoPzD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" target="Geain6B9ieLDcKAxIDCy-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Geain6B9ieLDcKAxIDCy-45" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2S1AV4CtAPfmvIg0gBz3-2">
+        <mxCell id="Geain6B9ieLDcKAxIDCy-45" edge="1" parent="1" source="Geain6B9ieLDcKAxIDCy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" target="2S1AV4CtAPfmvIg0gBz3-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
